@@ -1,0 +1,17 @@
+{
+  "name": "emailejs",
+  "version": "0.0.1",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "bin": {
+    "gulp": "./bin/gulp.js"
+  },  
+  "dependencies": {
+    "gulp": "latest",
+    "gulp-util": "latest",
+    "gulp-ejs": "latest"
+  }
+}
